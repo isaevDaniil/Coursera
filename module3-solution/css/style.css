@@ -1,0 +1,44 @@
+body{
+	background-color: #ECEAE0;
+	color: #DCD8CF;
+}
+h1{
+	color:#282827;
+}
+.navbar-brand{
+font-size: 2.5em;
+}
+
+.nav-item{
+	font-size: 1.5em;
+	text-align: center;
+	background-color: #ECEAE0;
+	border: 1px solid black;
+}
+
+
+#navlink1{
+	color: black;
+}
+#navlink2{
+	color: black;
+}
+#navlink3{
+	color: black;
+}
+
+section{
+	margin-bottom: 25px;
+}
+
+h3{
+	margin-bottom: 25px;
+}
+.item-menu{
+	background-color: #282827;
+	color: #FFFFFF;
+}
+p{
+	margin:15px;
+}
+
